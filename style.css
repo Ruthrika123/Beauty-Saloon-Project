@@ -1,0 +1,31 @@
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+     
+}
+.lead{
+    color:03346E
+}
+.header>div>div>img{
+    color:03346E
+}
+element.style {
+    font-size: 10em;
+}
+.image{
+    background-image: url(g.jpeg);
+}
+.testimonals{
+    background-image: url(hh.jpg);
+    background-size: cover;
+}
+h3{
+    text-align: center;
+}
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+.feature-icon {
+        width: 4rem;
+        height: 4rem;
+        border-radius: .75rem;}
